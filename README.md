@@ -1,4 +1,6 @@
 # Experimental-design-and-analysis
 The book is on the world wide web at
-http://www.stat.cmu.edu/∼hseltman/309/Book/Book.pdf.
+https://www.stat.cmu.edu/∼hseltman/309/Book/Book.pdf.
 
+1. The Big Picture
+2. Variable Classification
