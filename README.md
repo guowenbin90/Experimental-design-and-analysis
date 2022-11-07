@@ -6,3 +6,4 @@ https://www.stat.cmu.edu/∼hseltman/309/Book/
 2. Variable Classification
 3. Review of Probability
 4. Exploratory Data Analysis
+5. 
