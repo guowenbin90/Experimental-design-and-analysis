@@ -10,3 +10,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 6. t-test
 7. One-way ANOVA
 8. Threats to Your Experiment
+9. Simple Linear Regression
