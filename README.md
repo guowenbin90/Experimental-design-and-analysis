@@ -12,3 +12,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 8. Threats to Your Experiment
 9. Simple Linear Regression
 10. Analysis of Covariance
+11. Two-way ANOVA
