@@ -13,3 +13,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 9. Simple Linear Regression
 10. Analysis of Covariance
 11. Two-way ANOVA
+12. Statistical Power
