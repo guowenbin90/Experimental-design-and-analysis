@@ -15,3 +15,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 11. Two-way ANOVA
 12. Statistical Power
 13. Contrasts and Custom Hypotheses
+14. Within-Subjects Designs
