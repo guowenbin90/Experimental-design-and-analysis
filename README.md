@@ -16,3 +16,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 12. Statistical Power
 13. Contrasts and Custom Hypotheses
 14. Within-Subjects Designs
+15. Mixed Models
