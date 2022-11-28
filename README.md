@@ -17,3 +17,4 @@ https://www.stat.cmu.edu/~hseltman/309/Book/Book.pdf
 13. Contrasts and Custom Hypotheses
 14. Within-Subjects Designs
 15. Mixed Models
+16. Categorical Outcomes
